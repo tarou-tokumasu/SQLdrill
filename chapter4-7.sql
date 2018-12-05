@@ -1,0 +1,5 @@
+﻿-----ex
+delete
+from
+salary
+;
